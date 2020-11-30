@@ -14,4 +14,4 @@ setTimeout(
   function(){
     window.location = redir
   },
-1000); // waktu tunggu atau delay
+1000000); // waktu tunggu atau delay
